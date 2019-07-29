@@ -20,4 +20,4 @@ This is a simple web project, deployment can be on any web server or file system
 
 ### Copyright
 
-2020 training
+2021 training
